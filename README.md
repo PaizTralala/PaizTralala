@@ -6,13 +6,10 @@
 - Discord - Discord Bot!
 - Website - My Own Website!
 
-### 💻 Language And Tools
-- <img align="center" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-- <img align="center" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
-
 ### 👶 I'm Currently Learning
 - <img align="center" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-- <img align="center" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white">
+- <img align="center" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
+- <img align="center" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
 - <img align="center" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
 - <img align="center" src="https://img.shields.io/badge/mysql-%2300000F.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
 
