@@ -3,7 +3,7 @@
 <p align="center">You can call me Paiz! i'm  from Surabaya, Indonesia. i'd like to watch animes and sometimes do coding. 🤪</p>
 
 ### ✍ I'm Currently Working On
-- Discord - Discord Bot!
+- [Discord - Discord Bot!](https://discord.gg/GswpUKYpmA)
 - Website - My Own Website! (0%)
 
 ### 👶 I'm Currently Learning
