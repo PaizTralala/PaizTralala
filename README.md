@@ -4,7 +4,9 @@
 <br>
 </p>
 
-<h1></h1>
+<h1>📫 How To Reach Me!</h1>
+- [Instagram - @faizdzaki_](https://www.instagram.com/faizdzaki_/)
+<img src="https://discord.c99.nl/widget/theme-1/557092089905545217.png" width="375px">
 
 <img src="https://github-readme-stats.vercel.app/api/?username=PaizTralala&theme=merko"> 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaizTralala&layout=compact&theme=merko">
