@@ -1,4 +1,4 @@
-### Sup, I'm Faiz Dzaki! 👋
+<h1>Hiii, I'm Faiz Dzaki! 👋</h1>
 
 <p align="center">You can call me Paiz! i'm  from Surabaya, Indonesia. i'd like to watch animes and sometimes do coding 🤪</p>
 
