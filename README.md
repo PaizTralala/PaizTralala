@@ -4,7 +4,7 @@
 
 ### ✍ I'm Currently Working On
 - Discord - Discord Bot!
-- Website - My Own Website!
+- Website - My Own Website! (0%)
 
 ### 👶 I'm Currently Learning
 - <img align="center" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
@@ -15,7 +15,7 @@
 
 ### 📫 How To Reach Me!
 - [Instagram - @faizdzaki_](https://www.instagram.com/faizdzaki_/)
-- Discord - Paiz#0617
+- [Discord - Paiz#0617](https://discord.gg/GswpUKYpmA)
 <img src="https://discord.c99.nl/widget/theme-1/557092089905545217.png" width="375px"/>
 
 ### 📊 My Stats!
