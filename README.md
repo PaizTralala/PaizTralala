@@ -4,7 +4,7 @@
 <br>
 </p>
 
-<h1>📫 How To Reach Me!</h1>
+### 📫 How To Reach Me!
 - [Instagram - @faizdzaki_](https://www.instagram.com/faizdzaki_/)
 <img src="https://discord.c99.nl/widget/theme-1/557092089905545217.png" width="375px">
 
