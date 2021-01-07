@@ -19,5 +19,4 @@
 
 ### 📊 My Stats!
 <img align="left" src="https://github-readme-stats.vercel.app/api/?username=PaizTralala&theme=merko"/>
-<br>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaizTralala&layout=compact&theme=merko"/>
+<img align="left" margin="10px"src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaizTralala&layout=compact&theme=merko"/>
