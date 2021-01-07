@@ -19,5 +19,4 @@
 <img src="https://discord.c99.nl/widget/theme-1/557092089905545217.png" width="375px"/>
 
 ### 📊 My Stats!
-<img align="left" src="https://github-readme-stats.vercel.app/api/?username=PaizTralala&theme=merko"/> 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaizTralala&layout=compact&theme=merko"/>
+
