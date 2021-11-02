@@ -12,7 +12,7 @@
 - <img align="center" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
 
 ### 📫 How To Reach Me!
-- [Instagram - @faizdzaki_](https://www.instagram.com/faizdzaki_/)
+- [Instagram - @paizpai._](https://www.instagram.com/paizpai._/)
 - [Discord - Paiz#0617](https://discord.gg/GswpUKYpmA)
 <img src="https://discord.c99.nl/widget/theme-1/557092089905545217.png" width="375px"/>
 
