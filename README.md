@@ -1,4 +1,4 @@
-<h1 align="center">Hiii <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Faiz Dzaki!</h1>
+<h1 align="center">Hiii <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Faiz</h1>
 
 <p align="center">You can call me Paiz! i'm  from Surabaya, Indonesia. i'd like to watch animes and sometimes do coding. 🤪</p>
 
