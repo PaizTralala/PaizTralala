@@ -4,7 +4,6 @@
 
 ### ✍ I'm Currently Working On
 - [Discord - Discord Bot!](https://discord.gg/GswpUKYpmA)
-- Website - My Own Website! (0%)
 
 ### 👶 I'm Currently Learning
 - <img align="center" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
