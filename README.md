@@ -5,7 +5,7 @@
 ### ✍ I'm Currently Working On
 - [Discord - Discord Bot!](https://discord.gg/GswpUKYpmA)
 
-### 👶 I'm Currently Learning
+### 🧐 I'm Currently Learning
 - <img align="center" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 - <img align="center" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
 - <img align="center" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
@@ -14,7 +14,7 @@
 ### 📫 How To Reach Me!
 - [Instagram - @paizpai._](https://www.instagram.com/paizpai._/)
 - [Discord - Paiz#0617](https://discord.gg/GswpUKYpmA)
-<img src="https://discord.c99.nl/widget/theme-1/557092089905545217.png" width="375px"/>
+<img src="https://discord.c99.nl/widget/theme-1/937876388554375188.png" width="375px"/>
 
 ### 📊 My Stats!
 <img align="center" src="https://github-readme-stats.vercel.app/api/?username=PaizTralala&theme=merko"/>
