@@ -13,7 +13,6 @@
 
 ### 📫 How To Reach Me!
 - [Instagram - @paizpai._](https://www.instagram.com/paizpai._/)
-- [Discord - Paiz#0617](https://discord.gg/GswpUKYpmA)
 <img src="https://discord.c99.nl/widget/theme-1/937876388554375188.png" width="375px"/>
 
 ### 📊 My Stats!
